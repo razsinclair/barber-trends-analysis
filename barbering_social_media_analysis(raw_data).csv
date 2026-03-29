@@ -1,0 +1,55 @@
+﻿Post_Id,Platform,Style,Content_Type,Views,Likes,Comments,Engagement Rate = (Likes + Comments ) / Views
+1,tiktok,buzzcut,transformation,"28,900,000","848,600","1,594",0.029418478
+2,tiktok,taper fade,self-trim,"692,600","14,800",27,0.021407739
+3,tiktok,taper fade,tutorial,"444,900","11,700",26,0.026356485
+4,tiktok,burst fade,finished look,"231,700","11,100",126,0.048450583
+5,tiktok,taper fade,POV cut,"1,300,000","16,300",84,0.012603077
+6,tiktok,taper fade,POV cut,"175,900","12,300",109,0.070545765
+7,tiktok,brush back,tutorial,"90,700","4,176",25,0.04631753
+8,tiktok,burst fade,finished look,"1,300,000","31,500",119,0.024322308
+9,tiktok,skin fade,POV cut,"71,300","3,109",14,0.043800842
+10,tiktok,flow cut,POV cut,"3,200,000","162,100",332,0.05076
+11,tiktok,burst fade,POV cut,"11,600,000","427,600",789,0.036930086
+12,tiktok,skin fade,POV cut,"399,500","4,855",52,0.012282854
+13,tiktok,flow cut,transformation,"876,400","26,000",98,0.02977864
+14,tiktok,mullet,POV cut,"3,500,000","71,500",333,0.020523714
+15,tiktok,taper fade,POV cut,"4,200,000","158,300",321,0.037766905
+16,tiktok,mullet,POV cut,"5,900,000","286,500",409,0.048628644
+17,tiktok,mullet,transformation,"157,000","1,060",15,0.006847134
+18,tiktok,mullet,transformation,"1,400,000","66,800",108,0.047791429
+19,tiktok,mullet,transformation,"188,600","2,147",9,0.011431601
+20,tiktok,flow cut,POV cut,"3,200,000","162,100",332,0.05076
+21,instagram,taper fade,tutorial,"956,000","21,800",242,0.023056485
+22,instagram,taper fade,tutorial,"2,900,000","86,000",326,0.029767586
+23,instagram,taper fade,tutorial,"1,700,000","39,100",133,0.023078235
+24,instagram,buzzcut,transformation,"9,100,000","135,000",433,0.014882747
+25,instagram,buzzcut,transformation,"3,900,000","44,300",722,0.011544103
+26,instagram,buzzcut,finished look,"887,000","24,600",363,0.028143179
+27,instagram,taper fade,transformation,"9,700,000","599,000","12,300",0.063020619
+28,instagram,buzzcut,transformation,"8,000,000","656,000","18,700",0.0843375
+29,instagram,taper fade,transformation,"8,100,000","253,000","13,600",0.03291358
+30,instagram,taper fade,transformation,"1,880,000","887,000","18,100",0.48143617
+31,instagram,taper fade,transformation,"12,000,000","730,000","7,605",0.061467083
+32,tiktok,taper fade,transformation,"98,700,000","11,600,000","72,300",0.118260385
+33,tiktok,taper fade,transformation,"679,500","17,500",106,0.025910228
+34,instagram,mullet,transformation,"13,400,000","673,000","6,481",0.050707537
+35,instagram,skin fade,self-trim,"3,200,000","185,000","2,219",0.058505938
+36,instagram,brush back,tutorial,"100,000","24,900",67,0.24967
+37,instagram,brush back,tutorial,"4,300,000","21,100",100,0.004930233
+38,instagram,brush back,POV cut,"5,900,000","154,000",241,0.026142542
+39,instagram,skit/funny,skit,"151,000,000","6,000,000","24,900",0.0399
+40,instagram,skit/funny,skit,"2,000,000","95,100",454,0.047777
+41,instagram,skit/funny,skit,"4,900,000","173,000",462,0.035400408
+42,instagram,skit/funny,skit,"22,800,000","1,800,000","3,379",0.07909557
+43,instagram,skit/funny,skit,"2,100,000","127,000","2,208",0.061527619
+44,instagram,skit/funny,skit,"1,100,000","43,300","1,493",0.040720909
+45,instagram,skit/funny,skit,"632,000","31,600",295,0.050466772
+46,instagram,skit/funny,skit,"13,600,000","956,000","1,940",0.070436765
+47,tiktok,skit/funny,skit,"1,500,000","90,000",644,0.060429333
+48,tiktok,skit/funny,skit,"136,500","8,487",198,0.063626374
+49,tiktok,skit/funny,skit,"898,200","136,400",165,0.152042975
+50,tiktok,skit/funny,skit,"8,400,000","801,400","3,826",0.095860238
+51,tiktok,skit/funny,skit,"3,700,000","195,000",680,0.052886486
+52,instagram,skit/funny,skit,"1,800,000","82,600",317,0.046065
+53,instagram,skit/funny,skit,"10,600,000","466,000",656,0.044024151
+54,instagram,skit/funny,skit,"652,000","34,600",321,0.053559816
